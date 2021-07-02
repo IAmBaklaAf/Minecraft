@@ -1,0 +1,22 @@
+{
+  "accounts" : {
+    "2fb9ed64968f4e12bbd201b966804056" : {
+      "accessToken" : "5L0ewbmkrEJsDEoHtgEoClH45c0BnX3vXYmizXEjDo4",
+      "eligibleForMigration" : false,
+      "hasMultipleProfiles" : false,
+      "legacy" : false,
+      "localId" : "2fb9ed64968f4e12bbd201b966804056",
+      "minecraftProfile" : {
+        "id" : "2fb9ed64968f4e12bbd201b966804056",
+        "name" : "Nobody_Braxton"
+      },
+      "persistent" : true,
+      "remoteId" : "4e6f626f64795f42726178746f6e40656173796d632e696f",
+      "type" : "Mojang",
+      "userProperites" : [],
+      "username" : "Nobody_Braxton@easymc.io"
+    }
+  },
+  "activeAccountLocalId" : "2fb9ed64968f4e12bbd201b966804056",
+  "mojangClientToken" : "c88fae8077fb4951876fadce0063fa0d"
+}
